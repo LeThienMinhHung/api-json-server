@@ -1,6 +1,20 @@
 {
   "users": [
     {
+      "id": 0,
+      "name": "Zero User",
+      "email": "zero@example.com",
+      "age": 0,
+      "isActive": false,
+      "role": "test",
+      "address": {
+        "street": "0 Null Street",
+        "city": "Nowhere",
+        "zipcode": "000000"
+      },
+      "createdAt": "2025-01-01T00:00:00Z"
+    },
+    {
       "id": 1,
       "name": "Alice Nguyen",
       "email": "alice.nguyen@example.com",
