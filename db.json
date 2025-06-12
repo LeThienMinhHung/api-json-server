@@ -1,37 +1,39 @@
-[
-  {
-    "id": 1,
-    "name": "Nguyễn Văn An",
-    "birthday": "1990-03-15",
-    "hometown": "Hà Nội",
-    "bio": "Kỹ sư phần mềm đam mê công nghệ AI và du lịch khám phá."
-  },
-  {
-    "id": 2,
-    "name": "Trần Thị Bích",
-    "birthday": "1985-07-22",
-    "hometown": "Đà Nẵng",
-    "bio": "Nhà thiết kế đồ họa yêu thích hội họa và nhiếp ảnh đường phố."
-  },
-  {
-    "id": 3,
-    "name": "Lê Minh Tú",
-    "birthday": "1992-11-05",
-    "hometown": "Hồ Chí Minh",
-    "bio": "Chuyên viên marketing số, thích đọc sách về phát triển bản thân."
-  },
-  {
-    "id": 4,
-    "name": "Phạm Thị Hồng",
-    "birthday": "1998-01-30",
-    "hometown": "Cần Thơ",
-    "bio": "Sinh viên ngành Quản trị kinh doanh, mê làm bánh và vẽ tranh."
-  },
-  {
-    "id": 5,
-    "name": "Đỗ Quốc Khánh",
-    "birthday": "1988-12-12",
-    "hometown": "Hải Phòng",
-    "bio": "Giáo viên Tiếng Anh, đam mê âm nhạc và viết blog du lịch."
-  }
-]
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn An",
+      "birthday": "1990-03-15",
+      "hometown": "Hà Nội",
+      "bio": "Kỹ sư phần mềm đam mê công nghệ AI và du lịch khám phá."
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị Bích",
+      "birthday": "1985-07-22",
+      "hometown": "Đà Nẵng",
+      "bio": "Nhà thiết kế đồ họa yêu thích hội họa và nhiếp ảnh đường phố."
+    },
+    {
+      "id": 3,
+      "name": "Lê Minh Tú",
+      "birthday": "1992-11-05",
+      "hometown": "Hồ Chí Minh",
+      "bio": "Chuyên viên marketing số, thích đọc sách về phát triển bản thân."
+    },
+    {
+      "id": 4,
+      "name": "Phạm Thị Hồng",
+      "birthday": "1998-01-30",
+      "hometown": "Cần Thơ",
+      "bio": "Sinh viên ngành Quản trị kinh doanh, mê làm bánh và vẽ tranh."
+    },
+    {
+      "id": 5,
+      "name": "Đỗ Quốc Khánh",
+      "birthday": "1988-12-12",
+      "hometown": "Hải Phòng",
+      "bio": "Giáo viên Tiếng Anh, đam mê âm nhạc và viết blog du lịch."
+    }
+  ]
+}
