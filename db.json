@@ -1,6 +1,6 @@
 {
   "statusCode": 200,
-  data: {
+  "data": {
     "users": [
       {
         "id": 0,
